@@ -1,2 +1,0 @@
-# SussexLondon
-HackLondon2016
